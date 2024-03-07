@@ -1,2 +1,2 @@
 # Algorithm24
-## 목차
+## contents
